@@ -2,8 +2,8 @@
   {
     "guid": "6d5bb3cf-65f3-4dfa-a1a7-4bfa5199f6f8",
     "name": "TidyCollections",
-    "description": "Simple script that removes duplicates in collections",
-    "overview": "Simple script that removes duplicates in collections",
+    "description": "TidyCollections enhances your Jellyfin experience by automatically identifying and removing duplicate items in your media collections. This plugin intelligently scans your libraries, ensuring that each title in your collection is unique. It's a simple yet powerful tool to streamline your collections, making them more organized and easier to navigate.",
+    "overview": "Keep your Jellyfin media collections clean and orderly with TidyCollections. This plugin is designed to declutter your library by removing duplicate entries, thereby saving space and simplifying your browsing experience. Whether it's movies, TV shows, or music, TidyCollections ensures that duplicates are a thing of the past. With an easy-to-use interface and seamless integration into Jellyfin, maintaining a tidy media library has never been easier.",
     "owner": "codevski",
     "category": "General",
     "versions": [
